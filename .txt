@@ -1,0 +1,1 @@
+javac dop/Main.java dop/excpt/*.java dop/workerbase/*.java dop/workers/*.java
